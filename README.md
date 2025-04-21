@@ -1,21 +1,21 @@
 ﻿# BlinkitDispatch
 BlinKit Dispatch is a full-stack web application designed to streamline and automate dispatch operations, allowing realtime order/vehicle tracking for customers.
-🔹 Client – Frontend built with React
+🔹 Client – Frontend built with React<br/>
 🔹 Server – Backend powered by Node.js, Express and mongoDB, with services communicating using apache kafka.
 Features:
 Secure Login & Role-based Access,
 Real-time Dispatch Tracking,
 Products cart
-
+<pre>
 📦 Technologies Used
 Frontend: React, Axios, React Router.
 Backend: Node.js, Express, MongoDB, Mongoose.
 Others: JWT, Dotenv, CORS, Bcrypt.
-
+</pre>
 Prerequisites:
 Node.js (v16+),
 npm or yarn.
-
+<pre>
 🚀 Running the App
 1. Backend (Server)
 cd server
@@ -25,3 +25,4 @@ node index.js
 cd client
 npm install
 npm start
+</pre>
