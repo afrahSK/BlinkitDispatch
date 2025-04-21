@@ -1,0 +1,27 @@
+[
+    {
+      "id": 3,
+      "name": "Amul Masti Pouch Curd",
+      "price": 35,
+      "image": "/images/dairy/dahi.avif"
+    },
+    {
+      "id": 4,
+      "name": "Kellogg's Corn Flakes",
+      "price": 50,
+      "image": "/images/dairy/cornflakes.avif"
+    },
+    {
+        "id": 5,
+        "name": "Cream castle teacake",
+        "price": 199,
+        "image": "/images/dairy/teacake.avif"
+    },
+    {
+        "id": 6,
+        "name": "Proplant tofu",
+        "price": 46,
+        "image": "/images/dairy/tofu.avif"
+    }
+  ]
+  

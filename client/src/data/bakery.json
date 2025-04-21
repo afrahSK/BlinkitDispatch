@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "Cadbury Choco Bakes",
+      "price": 50,
+      "image": "/images/bakery/chocobakes.avif"
+    },
+    {
+      "id": 2,
+      "name": "Unibic Fudge Cake",
+      "price": 60,
+      "image": "/images/bakery/fudge.avif"
+    }
+  ]
+  

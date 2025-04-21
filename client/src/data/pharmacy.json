@@ -1,0 +1,21 @@
+[
+    {
+      "id": 7,
+      "name": "blood pressure Monitor",
+      "price": 1906,
+      "image": "/images/pharmacy/bp.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Prolyte Mixed fruit ORS",
+      "price": 31,
+      "image": "/images/pharmacy/ors.avif"
+    },
+    {
+      "id": 9,
+      "name": "Vicks Vaporub",
+      "price": 125,
+      "image": "/images/pharmacy/vaporub.avif"
+    }
+  ]
+  

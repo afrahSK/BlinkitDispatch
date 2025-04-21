@@ -1,0 +1,21 @@
+[
+    {
+      "id": 10,
+      "name": "Kurkure Masala Munch",
+      "price": 20,
+      "image": "/images/snacks/kurkure.avif"
+    },
+    {
+      "id": 11,
+      "name": "Netflix Gourmet popcorn",
+      "price": 50,
+      "image": "/images/snacks/popcorn.avif"
+    },
+    {
+        "id": 12,
+        "name": "Kurkure Puffcorn",
+        "price": 20,
+        "image": "/images/snacks/puffcorn.avif"
+    }
+  ]
+  
